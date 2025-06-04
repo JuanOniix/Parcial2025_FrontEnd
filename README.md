@@ -1,10 +1,7 @@
 ## 🔗 Repositorio Complementario
-- Backend: [https://github.com/tu-usuario/admincore-backend](https://github.com/tu-usuario/admincore-backend)
-- Frontend: [https://github.com/tu-usuario/admincore-frontend](https://github.com/tu-usuario/admincore-frontend)
+- Backend: https://github.com/JuanOniix/Parcial2025_BackEnd.git
+- Frontend: https://github.com/JuanOniix/Parcial2025_FrontEnd.git
 
 ## 🖥️ Ejecución Local
 1. Clona ambos repositorios
 2. Instala dependencias del backend:
-```bash
-cd admincore-backend
-npm install
